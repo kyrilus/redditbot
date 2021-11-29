@@ -20,4 +20,4 @@ len(valid_replies)= 338
 valid_comments= 380
 ```
 
-I beleive my score should be 22/20 because I completed all of the bot task, and obtained at least 100 valid comments with my bot.
+I believe my score should be 22/20 because I completed all of the bot task, and obtained at least 100 valid comments with my bot.
