@@ -14,6 +14,10 @@ len(comments)= 489
 len(top_level_comments)= 142
 len(replies)= 347
 len(valid_top_level_comments)= 42
+len(not_self_replies)= 344
+len(valid_replies)= 338
+========================================
+valid_comments= 380
 ```
 
 I beleive my score should be 22/20 because I completed all of the bot task, and obtained 100 comments with my bot.
